@@ -35,7 +35,7 @@
   <div class="container">
     <header>
       <div class="logo" aria-hidden="true">
-        <img src="/mnt/data/Screenshot 2025-11-21 at 16.44.53.png" alt="VareGames logo screenshot" />
+        <img src="[/mnt/data/Screenshot 2025-11-21 at 16.44.53.png](https://varegames.com/wp-content/uploads/2025/11/varegames.com-unblocked-games.webp)" alt="VareGames logo screenshot" />
       </div>
       <div>
         <h1>Unblocked Games — Play Fast Browser Games Anywhere</h1>
